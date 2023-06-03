@@ -3,7 +3,7 @@ export default function Navbar() {
   return (
     <nav>
       <img
-        src="https://github.com/amanph/stackblitz-starters-afzmuz/blob/main/img/r.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
         alt="react-logo"
         className="nav--icon"
       />
